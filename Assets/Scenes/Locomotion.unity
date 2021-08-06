@@ -3501,10 +3501,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
-<<<<<<< HEAD
---- !u!33 &1901918533
-MeshFilter:
-=======
 --- !u!33 &1302075218
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -3537,7 +3533,6 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
 --- !u!114 &1489388439
 MonoBehaviour:
->>>>>>> parent of 26e7052 (そふぁー)
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
