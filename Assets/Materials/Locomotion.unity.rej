@@ -1,0 +1,45 @@
+diff a/Assets/Scenes/Locomotion.unity b/Assets/Scenes/Locomotion.unity	(rejected hunks)
+@@ -3501,8 +3501,43 @@
+   m_SortingLayer: 0
+   m_SortingOrder: 0
+   m_AdditionalVertexStreams: {fileID: 0}
++<<<<<<< HEAD
+ --- !u!33 &1901918533
+ MeshFilter:
++=======
++--- !u!33 &1302075218
++MeshFilter:
++  m_ObjectHideFlags: 0
++  m_CorrespondingSourceObject: {fileID: 0}
++  m_PrefabInstance: {fileID: 0}
++  m_PrefabAsset: {fileID: 0}
++  m_GameObject: {fileID: 1302075215}
++  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
++--- !u!4 &1302075219
++Transform:
++  m_ObjectHideFlags: 0
++  m_CorrespondingSourceObject: {fileID: 0}
++  m_PrefabInstance: {fileID: 0}
++  m_PrefabAsset: {fileID: 0}
++  m_GameObject: {fileID: 1302075215}
++  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
++  m_LocalPosition: {x: 2.925, y: 0.1, z: 0}
++  m_LocalScale: {x: 2, y: 0.5, z: 1}
++  m_Children:
++  - {fileID: 1610023914}
++  - {fileID: 1632220973}
++  - {fileID: 1170151696}
++  m_Father: {fileID: 0}
++  m_RootOrder: 10
++  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
++--- !u!1 &1489388437 stripped
++GameObject:
++  m_CorrespondingSourceObject: {fileID: 100074, guid: 69c3ed15e9d13481e8f7dc4db5532fb6, type: 3}
++  m_PrefabInstance: {fileID: 604960618}
++  m_PrefabAsset: {fileID: 0}
++--- !u!114 &1489388439
++MonoBehaviour:
++>>>>>>> parent of 26e7052 (そふぁー)
+   m_ObjectHideFlags: 0
+   m_CorrespondingSourceObject: {fileID: 0}
+   m_PrefabInstance: {fileID: 0}
